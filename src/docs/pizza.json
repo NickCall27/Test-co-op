@@ -1,0 +1,94 @@
+
+{
+    "pizza's": [
+        {
+            "id" : 1,
+            "name": "PIZZA AMERICAN",
+            "picture": "C:/Users/nikit/OneDrive/Documenten/GitHub/Foodkiosk/food-app/src/assets/img/pizza.png",
+            "price": "3.50",
+            "info": [
+                "tomaten",
+                "sla",
+                "kip"
+            ]
+        },
+        {
+            "id" : 2,
+            "name": "PIZZA MARGHERITA",
+            "picture": "C:/Users/nikit/OneDrive/Documenten/GitHub/Foodkiosk/food-app/src/assets/img/pizza2.png",
+            "price": "4.50",
+            "info": [
+                "tomaten",
+                "sla",
+                "kip",
+                "kaas"
+            ]
+        },
+        {
+            "id" : 3,
+            "name": "PIZZA 4 CHEESE",
+            "picture": "C:/Users/nikit/OneDrive/Documenten/GitHub/Foodkiosk/food-app/src/assets/img/pizza3.png",
+            "price": "5.50",
+            "info": [
+                "tomaten",
+                "kaas",
+                "champion"
+            ]
+        },
+        {
+            "id" : 4,
+            "name": "PIZZA 4 STAGIONI",
+            "picture": "C:/Users/nikit/OneDrive/Documenten/GitHub/Foodkiosk/food-app/src/assets/img/pizza4.png",
+            "price": "6.50",
+            "info": [
+                "tomaten",
+                "kaas",
+                "champion"
+            ]
+        },
+        {
+            "id" : 5,
+            "name": "PIZZA BBQ GRILL",
+            "picture": "pizza5.png",
+            "price": "5.20",
+            "info": [
+                "tomaten",
+                "kaas",
+                "champion"
+            ]
+        },
+        {
+            "id" : 6,
+            "name": "PIZZA SAVOYARDE",
+            "price": "4.80",
+            "picture": "pizza6.png",
+            "info": [
+                "tomaten",
+                "kaas",
+                "champion"
+            ]
+        },
+        {
+            "id" : 7,
+            "name": "PIZZA EXTRAVAGANZZA",
+            "picture": "pizza7.png",
+            "price": "6.40",
+            "info": [
+                "tomaten",
+                "kaas",
+                "champion"
+            ]
+        },
+        {
+            "id" : 8,
+            "name": "PIZZA GOATCHEESE BACON",
+            "picture": "pizza8.png",
+            "price": "4.50",
+            "info": [
+                "tomaten",
+                "kaas",
+                "champion"
+            ]
+        }
+    ] 
+}
