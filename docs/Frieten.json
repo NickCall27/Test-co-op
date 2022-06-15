@@ -1,0 +1,46 @@
+{
+    "Frieten": [
+        {
+            "id": 1,
+            "name": "KINDER FRIET",
+            "picture": "./Images/frieten.jpg",
+            "price": "1.90",
+            "details": [
+                "Zonder zout",
+                "Met satékruiden"
+            ]
+
+        },
+        {
+            "id": 2,
+            "name": "KLEINE FRIET",
+            "picture": "./Images/frieten.jpg",
+            "price": "2.30",
+            "details": [
+                "Zonder zout",
+                "Met satékruiden"
+            ] 
+        },
+        {
+            "id": 3,
+            "name": "MIDDEL FRIET",
+            "picture": "./Images/frieten.jpg",
+            "price": "2.70",
+            "details": [
+                "Zonder zout",
+                "Met satékruiden"
+            ] 
+        },
+        {
+            "id": 4,
+            "name": "GROTE FRIET",
+            "picture": "./Images/frieten.jpg",
+            "price": "3.50",
+            "details": [
+                "Zonder zout",
+                "Met satékruiden"
+            ] 
+        }
+     
+    ]
+}

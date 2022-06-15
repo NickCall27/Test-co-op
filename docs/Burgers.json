@@ -1,0 +1,98 @@
+{
+"Burgers": [
+    {
+        "id": 13,
+        "name": "BICKY",
+        "picture": "./Images/BickyCheese.jpeg",
+        "price": "3.70",
+        "details": [
+            "Zonder ui",
+            "Zonder augurk"
+            ]
+
+        },
+        {
+            "id": 14,
+            "name": "BICKY CHEESE",
+            "picture": "./Images/BickyCheese.jpeg",
+            "price": "4.20",
+            "details": [
+                "Zonder ui",
+                "Zonder augurk"
+                ]
+    
+            },
+            {
+                "id": 15,
+                "name": "BICKY RIB",
+                "picture": "./Images/BickyRibCheese.jpeg",
+                "price": "4.30",
+                "details": [
+                    "Zonder ui",
+                    "Zonder augurk"
+                    ]
+        
+                },
+                {
+                    "id": 16,
+                    "name": "BICKY RIB CHEESE",
+                    "picture": "./Images/BickyRibCheese.jpeg",
+                    "price": "4.80",
+                    "details": [
+                        "Zonder ui",
+                        "Zonder augurk"
+                        ]
+            
+                    },
+                    {
+                        "id": 17,
+                        "name": "BACONBURGER",
+                        "picture": "./Images/BaconByrger.jpeg",
+                        "price": "7.50",
+                        "details": [
+                            
+                            ]
+                
+                        },
+                        {
+                            "id": 18,
+                            "name": "BEEF BEARNAISE",
+                            "picture": "./Images/BeefBearnaise.jpeg",
+                            "price": "6.00",
+                            "details": [
+                                
+                                ]
+                    
+                            },
+                            {
+                                "id": 19,
+                                "name": "BEEF DELUXE",
+                                "picture": "./Images/BeefBearnaise.jpeg",
+                                "price": "8.50",
+                                "details": [
+                                    
+                                    ]
+                        
+                                },
+                                {
+                                    "id": 20,
+                                    "name": "BICKY BEEF CHEESE",
+                                    "picture": "./Images/BickyBeefCheese.jpeg",
+                                    "price": "7.00",
+                                    "details": [
+                                        
+                                        ]
+                            
+                                    },
+                                    {
+                                        "id": 21,
+                                        "name": "LITTLE GIANT",
+                                        "picture": "./Images/LittleGiant.jpeg",
+                                        "price": "8.50",
+                                        "details": [
+                                            
+                                            ]
+                                
+                                        }
+    ]
+}

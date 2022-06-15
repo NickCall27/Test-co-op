@@ -1,0 +1,60 @@
+{
+    "Snacks": [
+    {
+        "id": 5,
+        "name": "ARDEENSE SATE",
+        "picture": "./Images/Brochet.jpeg",
+        "price": "4.20"
+
+    },
+    {
+        "id": 6,
+        "name": "BITTERBALLEN",
+        "picture": "./Images/Bitterballen.jpeg",
+        "price": "2.60"
+
+    },
+    {
+        "id": 7,
+        "name": "BROCHET",
+        "picture": "./Images/Bitterballen.jpeg",
+        "price": "3.70"
+
+    },
+    {
+        "id": 8,
+        "name": "CHIXFINGERS",
+        "picture": "./Images/Chixfingers.jpeg",
+        "price": "3.60"
+
+    },
+    {
+        "id": 9,
+        "name": "CHICKENNUGGETS",
+        "picture": "./Images/Chickennuggets.jpeg",
+        "price": "3.60"
+
+    },
+    {
+        "id": 10,
+        "name": "FRIKANDEL",
+        "picture": "./Images/Frikandel.jpeg",
+        "price": "1.90"
+
+    },
+    {
+        "id": 11,
+        "name": "ARDEENSE SATE",
+        "picture": "./Images/frieten.jpg",
+        "price": "4.20"
+
+    },
+    {
+        "id": 12,
+        "name": "MEXICANO",
+        "picture": "./Images/Mexicano.jpeg",
+        "price": "3.00"
+
+    }
+    ]
+}

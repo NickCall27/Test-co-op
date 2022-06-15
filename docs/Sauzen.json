@@ -1,0 +1,75 @@
+{
+    "Sauzen": [
+        {
+            "id": 22,
+            "name": "Andalouse",
+            "picture": "./Images/Sauzen.jpeg",
+            "price": "1.00",
+            "details": [
+                
+                ]
+    
+            },
+            {
+                "id": 23,
+                "name": "Cocktail",
+                "picture": "./Images/Sauzen.jpeg",
+                "price": "1.00",
+                "details": [
+                    
+                    ]
+        
+                },
+                {
+                    "id": 24,
+                    "name": "Hannibal",
+                    "picture": "./Images/Sauzen.jpeg",
+                    "price": "1.00",
+                    "details": [
+                        
+                        ]
+            
+                    },
+                    {
+                        "id": 25,
+                        "name": "Ketchup",
+                        "picture": "./Images/Sauzen.jpeg",
+                        "price": "1.00",
+                        "details": [
+                            
+                            ]
+                
+                        },
+                        {
+                            "id": 26,
+                            "name": "Mayonaise",
+                            "picture": "./Images/Sauzen.jpeg",
+                            "price": "1.00",
+                            "details": [
+                                
+                                ]
+                    
+                            },
+                            {
+                                "id": 27,
+                                "name": "Samourai",
+                                "picture": "./Images/Sauzen.jpeg",
+                                "price": "1.00",
+                                "details": [
+                                    
+                                    ]
+                        
+                                },
+                                {
+                                    "id": 28,
+                                    "name": "Tartaar",
+                                    "picture": "./Images/Sauzen.jpeg",
+                                    "price": "1.00",
+                                    "details": [
+                                        
+                                        ]
+                            
+                                    }
+                        
+        ]
+    }

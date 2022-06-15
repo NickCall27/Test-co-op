@@ -1,0 +1,64 @@
+{
+    "Dranken": [
+        {
+            "id": 29,
+            "name": "COLA",
+            "picture": "./Images/Cola.jpeg",
+            "price": "2.20",
+            "details": [
+                
+                ]
+    
+            },
+            {
+                "id": 30,
+                "name": "COLA ZERO",
+                "picture": "./Images/ColaZero.jpeg",
+                "price": "2.20",
+                "details": [
+                    
+                    ]
+        
+                },
+                {
+                    "id": 31,
+                    "name": "FANTA",
+                    "picture": "./Images/Fanta.jpeg",
+                    "price": "2.20",
+                    "details": [
+                        
+                        ]
+            
+                    },
+                    {
+                        "id": 32,
+                        "name": "ICE TEA",
+                        "picture": "./Images/IceTea.jpeg",
+                        "price": "2.20",
+                        "details": [
+                            
+                            ]
+                
+                        },
+                        {
+                            "id": 33,
+                            "name": "SPRITE",
+                            "picture": "./Images/Sprite.jpeg",
+                            "price": "2.20",
+                            "details": [
+                                
+                                ]
+                    
+                            },
+                            {
+                                "id": 34,
+                                "name": "WATER",
+                                "picture": "./Images/Water.jpeg",
+                                "price": "2.20",
+                                "details": [
+                                    
+                                    ]
+                        
+                                }
+        ]
+    }
