@@ -1,0 +1,95 @@
+
+{
+    "kebab's": [
+        {   
+            "id":10,
+            "name": "Kebab AMERICAN",
+            "picture": "",
+            "price": "3.50",
+            "info": [
+                "tomaten",
+                "kaas",
+                "champion"
+            ]
+        },
+        {
+            "id" : 11,
+            "name": "Kebab MARGHERITA",
+            "picture": "",
+            "price": "3.60",
+            "info": [
+                "tomaten",
+                "kaas",
+                "champion"
+            ]
+        },
+        {
+            "id" : 12,
+            "name": "Kebab 4 CHEESE",
+            "picture": "",
+            "price": "3.80",
+            "info": [
+                "tomaten",
+                "kaas",
+                "champion"
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Kebab 4 STAGIONI",
+            "picture": "",
+            "price": "4.50",
+            "info": [
+                "tomaten",
+                "kaas",
+                "champion"
+            ]
+        }
+    ],
+    "pita": [
+        {
+            "id": 14,
+            "name": "Pita AMERICAN",
+            "picture": "",
+            "price": "5.0",
+            "info": [
+                "tomaten",
+                "kaas",
+                "champion"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Pita MARGHERITA",
+            "picture": "",
+            "price": "3.50",
+            "info": [
+                "tomaten",
+                "kaas",
+                "champion"
+            ]
+        },
+        {
+            "id" : 16,
+            "name": "Pita 4 CHEESE",
+            "picture": "",
+            "price": "4.50",
+            "info": [
+                "tomaten",
+                "kaas",
+                "champion"
+            ]
+        },
+        {   
+            "id": 17,
+            "name": "Pita 4 STAGIONI",
+            "price": "3.20",
+            "picture": "",
+            "info": [
+                "tomaten",
+                "kaas",
+                "champion"
+            ]
+        }
+    ]  
+}
