@@ -1,0 +1,42 @@
+
+
+.mini-categorie {
+    width: 100%;
+    .mini-categorie--list {
+        display: flex;
+        justify-content: center;
+        list-style-type: none;
+        
+        .mini__categorie--lin {
+            font-size: 1.3rem;
+            text-decoration: none;
+            border: 2px solid black;
+            border-radius: 0.5rem;
+            transition: 0.5s;
+            margin: 3rem;
+        }
+        .mini__categorie--link {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            color: black;
+            
+        } 
+        .mini__categorie--img {
+            margin: 0.5rem;
+            border-radius: 0.5rem;
+        }
+        .mini__categorie--link p {
+                margin: none;
+                padding: -0.5rem;
+        }
+        .mini__categorie--lin:hover {
+            background-color: yellow;
+            border: 2px solid greenyellow;
+        }
+        .active:active {
+            background-color: green;
+            color: white;
+        } 
+    }
+}

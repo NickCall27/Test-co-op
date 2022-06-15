@@ -1,0 +1,38 @@
+.header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-color: gainsboro;
+  border: 2px solid;
+  position: absolute;
+  height: 48px;
+  -webkit-transition: 0.5s all;
+  transition: 0.5s all;
+  margin: 2rem;
+}
+
+.header .header-winkel__btn {
+  height: 3rem;
+  width: 3rem;
+}
+
+.header .header-winkel__btn svg {
+  height: 2rem;
+  width: 2rem;
+}
+
+.header .header-menu {
+  display: none;
+}
+
+.header.active > .winkel__list {
+  display: block;
+}
+/*# sourceMappingURL=Header.css.map */

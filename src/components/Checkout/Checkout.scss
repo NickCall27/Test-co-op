@@ -1,0 +1,39 @@
+
+
+.winkel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: gainsboro;
+    border: 2px solid;
+    border-radius: 1rem;
+ 
+    position: absolute;
+    bottom: -5rem;
+    width: 496px;
+    left: calc(50% - 200px);
+     height: 48px;
+    transition: 0.5s all;
+    overflow: hidden; 
+    .winkel--btn{
+        height: 3rem;
+        width: 3rem;
+       
+    } .winkel--btn svg {
+        height: 2rem;
+        width: 2rem;
+    }
+        .winkel__list {
+            display: none;
+        }
+        
+    &.active{
+        overflow-y:scroll;
+        height: 450px;
+        >.winkel__list {
+            display: block;
+           
+        }
+    }
+       
+}

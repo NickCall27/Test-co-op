@@ -1,0 +1,37 @@
+.categorie {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.categorie .categorie--list {
+  background-color: brown;
+}
+
+.categorie .categorie--list .categorie--link {
+  display: -ms-grid;
+  display: grid;
+  justify-items: center;
+  list-style-type: none;
+  margin: 1rem;
+}
+
+.categorie .categorie--list .categorie--img {
+  border-radius: 0.5rem;
+}
+
+.categorie .categorie--list .categorie--link a {
+  font-size: 1.3rem;
+  text-decoration: none;
+  margin: 0.2rem;
+  color: black;
+}
+
+.categorie .categorie--list .categorie--link:hover {
+  background-color: blue;
+  color: #944141;
+}
+/*# sourceMappingURL=categorie.css.map */

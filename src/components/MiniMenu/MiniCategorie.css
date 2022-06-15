@@ -1,0 +1,58 @@
+.mini-categorie {
+  width: 100%;
+}
+
+.mini-categorie .mini-categorie--list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  list-style-type: none;
+}
+
+.mini-categorie .mini-categorie--list .mini__categorie--lin {
+  font-size: 1.3rem;
+  text-decoration: none;
+  border: 2px solid black;
+  border-radius: 0.5rem;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  margin: 3rem;
+}
+
+.mini-categorie .mini-categorie--list .mini__categorie--link {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: black;
+}
+
+.mini-categorie .mini-categorie--list .mini__categorie--img {
+  margin: 0.5rem;
+  border-radius: 0.5rem;
+}
+
+.mini-categorie .mini-categorie--list .mini__categorie--link p {
+  margin: none;
+  padding: -0.5rem;
+}
+
+.mini-categorie .mini-categorie--list .mini__categorie--lin:hover {
+  background-color: yellow;
+  border: 2px solid greenyellow;
+}
+
+.mini-categorie .mini-categorie--list .active:active {
+  background-color: green;
+  color: white;
+}
+/*# sourceMappingURL=MiniCategorie.css.map */

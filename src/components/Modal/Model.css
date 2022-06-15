@@ -1,0 +1,28 @@
+.model {
+    height: 100vh;
+    width: 100vw;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    pointer-events: none;
+    /*transform: scale(0);*/
+    transition: 0.5s;
+}
+.model.active {
+    opacity: 1;
+    pointer-events: all;
+   /* transform: scale(1);*/
+}
+.model__content {
+    padding: 20px;
+    margin: 20px;
+    border-radius: 0.8rem;
+    background-color: blanchedalmond;
+    height: 400px;
+    width: 400px;
+}
